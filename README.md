@@ -1,4 +1,4 @@
-### Instructions to run the project:
+### Instructions to run the project (with [Laravel Sail](https://laravel.com/docs/10.x/sail)):
 ```bash
 # Clone the repository and run the following commands
 composer install
