@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather
+    <air_temperature value="23.4" unit="C"/>
+    <air_pressure value="757.23" unit="mmHg"/>
+    wind_speed value="3" unit="m/s"
+</weather
